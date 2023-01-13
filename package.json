@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automated Widevine support for Gluon",
   "main": "src/index.js",
+  "types": "index.d.ts",
   "repository": "github:yellowsink/gluon-widevine",
   "author": "Gluon Framework",
   "license": "MIT",
