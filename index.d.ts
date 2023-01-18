@@ -4,4 +4,4 @@ export function ensureWidevine(
   opts?: Pick<OpenOptions, "forceBrowser" | "forceEngine">
 ): Promise<void>;
 
-export const openWithWv: typeof open;
+export const openWithWidevine: typeof open;

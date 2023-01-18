@@ -22,7 +22,7 @@ export const ensureWidevine = async ({ forceBrowser, forceEngine } = {}) => {
     await ensureWidevineRaw(browserData.dataPath);
 };
 
-export async function openWithWv(url, opts) {
+export async function openWithWidevine(url, opts) {
   await ensureWidevine(opts);
   return open(url, opts);
 }
