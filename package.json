@@ -4,13 +4,13 @@
   "description": "Automated Widevine support for Gluon",
   "main": "src/index.js",
   "types": "index.d.ts",
-  "repository": "github:yellowsink/gluon-widevine",
+  "repository": "github:gluon-framework/widevine",
   "author": "Gluon Framework",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yellowsink/gluon-widevine/issues"
+    "url": "https://github.com/gluon-framework/widevine/issues"
   },
-  "homepage": "https://github.com/yellowsink/gluon-widevine#readme",
+  "homepage": "https://github.com/gluon-framework/widevine#readme",
   "type": "module",
   "devDependencies": {
     "@gluon-framework/gluon": "^0.11.0"
