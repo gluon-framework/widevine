@@ -1,5 +1,5 @@
 import { join } from "path";
-import { ensureWidevine as ensureWidevineRaw } from "./widevine";
+import { ensureWidevine as ensureWidevineRaw } from "./widevine.js";
 import { open } from "@gluon-framework/gluon";
 
 // taken from gluon directly
