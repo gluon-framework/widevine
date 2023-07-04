@@ -106,7 +106,7 @@ async function installWidevine(dataFolder) {
     })
   );
 
-  log("Widevine installed successfully!");
+  console.log("Widevine installed successfully!");
 }
 
 async function ensureWidevineUnmutexed(dataFolder) {
